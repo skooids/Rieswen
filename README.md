@@ -6,7 +6,7 @@
 
 # Who am I?
 
-I am a wannabe scripter that sucks but keeps trying.
+I am a scripter
 
 # What languages do you know / are you learning ?
 

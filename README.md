@@ -21,4 +21,4 @@ Well yeah I have many languages I want to learn like Python or Java but right no
 
 ## What are you best at ?
 
-#### I S U C C
+#### Making fun of myself.

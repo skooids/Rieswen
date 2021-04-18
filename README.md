@@ -6,9 +6,9 @@
 
 ## Who am I?
 
-I am a scripter
+I am a 14 years old, romanian boy who wants to be Full-time Developer in the future.
 
-## What languages do you know / are you learning ?
+## What languages do you know / learning ?
 
 * C#
 * Javascript

@@ -1,7 +1,9 @@
 ## Hi there, I'm rares 👋
 
-[![Reddit](https://www.reddit.com/u/Rieswen/)
-[![Twitter](https://twitter.com/rares_dev)
+[![Twitter](https://img.shields.io/badge/rares_dev-black?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/rares_dev)](https://twitter.com/rares_dev)
+[![Reddit](https://img.shields.io/badge/Rieswen-black?style=flat&logo=reddit&logoColor=red&target=_blank&link=https://www.reddit.com/user/Rieswen)](https://www.reddit.com/user/Rieswen)
+[![Twitch](https://img.shields.io/badge/rieswen-black?style=flat&logo=twitch&logoColor=purple&link=https://www.twitch.tv/rieswen)](https://www.twitch.tv/rieswen)
+
 
 <br>
 

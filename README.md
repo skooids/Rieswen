@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on to brushing up my skills
 - 🌱 I’m currently learning PHP and Node.js
 - 👯 I’m looking to collaborate on C# projects
-- 📫 How to reach me: <a href="dsc.bio/rare">dsc.bio/rare</a>
+- 📫 How to reach me: ![](https://discord.bio/p/rare)
 
   <br/>
 

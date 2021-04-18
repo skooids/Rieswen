@@ -22,3 +22,6 @@ Well yeah I have many languages I want to learn like Python or Java but right no
 ## What are you best at ?
 
 #### Making fun of myself.
+
+[![Rieswen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rieswen&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+

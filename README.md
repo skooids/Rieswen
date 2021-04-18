@@ -1,27 +1,50 @@
-<center>
+## Hi there, I'm rares 👋
 
-![Rieswen](https://media.giphy.com/media/F4AzIZkD61ooqva181/giphy.gif)
+[![Reddit](https://www.reddit.com/u/Rieswen/)
+[![Twitter](https://twitter.com/rares_dev)
 
-# Hello and welcome to my profile !
+<br>
 
-## Who am I?
+- 🔭 I’m currently working on to brushing up my skills
+- 🌱 I’m currently learning PHP and Node.js
+- 👯 I’m looking to collaborate on C# projects
+- 📫 How to reach me: <a href="dsc.bio/rare">dsc.bio/rare</a>
 
-I am a 14 years old, romanian boy who wants to be Full-time Developer in the future.
+  <br/>
 
-## What languages do you know / learning ?
+## Achievements
 
-* C#
-* Javascript
-* PHP
-* HTML, CSS ( HTML and CSS are actually not technically programming languages, they're just page structure and style information )
+<a href="https://github.com/Rieswen">
+  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=Rieswen&row=1&column=7&margin-w=5&no-frame=true"/>
+</a>
+<br/>
 
-## Do you want to learn any other languages ?
+## My Working Stack:
 
-Well yeah I have many languages I want to learn like Python or Java but right now I would like to get better at the languages above.
+<div align="center">
+    <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
+    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5"/>
+    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
+    <img src="https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=1E87E3" />
+    <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>r>
+    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
+    <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
+    <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
+    <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
+</div>
+<br/>
 
-## What are you best at ?
+## My Statistics:
 
-#### Making fun of myself.
+<a href="https://github.com/Rieswen?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rieswen&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Rieswen?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rieswen&count_private=true&include_all_commits=true&layout=compact" />
+</a>
 
-[![Rieswen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rieswen&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/Sanchitbajaj02?tab=repositories)
+-->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories) -->

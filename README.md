@@ -24,15 +24,14 @@
 ## My Working Stack:
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5"/>
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
-    <img src="https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=1E87E3" />
-    <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
-    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
-    <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
-    <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
+    <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=1E87E3" />
+    <img src="https://img.shields.io/badge/-Node.JS-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
+    <img src="https://img.shields.io/badge/-GIT-000000?&style=flat&logo=git&logoColor=E64A19"/>
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=DEDEDF" />
+    <img src="https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
 </div>
 <br/>
 

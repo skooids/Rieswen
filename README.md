@@ -5,8 +5,6 @@
 [![Twitch](https://img.shields.io/badge/rieswen-black?style=flat&logo=twitch&logoColor=purple&link=https://www.twitch.tv/rieswen)](https://www.twitch.tv/rieswen)
 [![Youtube](https://img.shields.io/badge/Rares-black?style=flat&logo=youtube&logoColor=red&link=https://www.youtube.com/channel/UCloxoVnDUgYO5-bETkhaIiw)](https://www.youtube.com/channel/UCloxoVnDUgYO5-bETkhaIiw)
 
-
-
 <br>
 
 - 🔭 I’m currently working on to brushing up my skills

@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/-GIT-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=DEDEDF" />
     <img src="https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
-    <img src="https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio&logoColor=2BA1F1" />
+    <img src="https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio&logoColor=8A2EFF" />
 </div>
 <br/>
 
